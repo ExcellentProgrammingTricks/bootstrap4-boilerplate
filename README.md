@@ -13,7 +13,7 @@ bootstrap-boilerplate/
 ├── assets
     ├── css/
         ├── myStyle.css
-        ├── normalize.css
+        ├── normalize.css v8.0.1
     ├── font/
         ├── Sample Font  
     ├── imgages/
@@ -26,16 +26,16 @@ bootstrap-boilerplate/
         ├── _vars.scss
     ├── myScript.scss
 ├── vender/
-    ├── bootstrap/
+    ├── bootstrap/ 
         ├── css/
-            ├── bootstrap.min.css
+            ├── bootstrap.min.css v4.2.1
         ├── js/
-            ├── bootstrap.min.js
-            ├── popper.min.js
+            ├── bootstrap.min.js v4.2.1
+            ├── popper.min.js v4.2.1
     ├── font-awesome/
-        ├── all.js
+        ├── all.js v5.7.0 
     ├── jquery
-        └── jquery.js
+        └── jquery.js v3.3.1
 └── index.html 
 ```
 ## Version
