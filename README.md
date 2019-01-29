@@ -1,5 +1,8 @@
 # bootstrap4-boilerplate
-Bootstrap 4 boilerplate is a front-end template for professional web development.
+
+Bootstrap boilerplate is a professional front-end template.
+
+This project can be used for any type professional web development. Remove bootstrap css and js file with a link this project act like HTML boilerplate. Huge experience work on this project, it's very fast, changeable and adaptive for general purpose.
 
 ## File Structure
 
