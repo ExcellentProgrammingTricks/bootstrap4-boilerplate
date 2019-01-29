@@ -20,7 +20,7 @@ bootstrap-boilerplate/
         ├── Sample Images
         ├── Sample Favicon
     ├── js/
-        ├── myScript.js
+        ├── myScript.js //Sample Code
 ├── scss/
     ├── base/
         ├── _vars.scss
