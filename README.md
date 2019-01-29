@@ -12,7 +12,7 @@ Within the download you'll find the following directories and files.
 bootstrap-boilerplate/
 ├── assets
     ├── css/
-        ├── myStyle.css
+        ├── myStyle.css //Sample Google Font
         ├── normalize.css v8.0.1
     ├── font/
         ├── Sample Font  
